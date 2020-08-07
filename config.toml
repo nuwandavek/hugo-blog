@@ -38,6 +38,7 @@ weight = 1
 
   # Post page settings
   show_updated = false # default
+  logo="images/banksycircle.png"
 
   [params.comments]
     enabled = false # default
