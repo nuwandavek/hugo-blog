@@ -1,0 +1,62 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "vivek aithal"
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Essays"
+url = "/posts"
+weight = 1
+
+[[menu.main]]
+name = "Side Projects"
+url = "/projects"
+weight = 1
+
+
+[params]
+
+  colortheme = "white" # dark, light, white, or classic
+  rss = true # generate rss feed. default value is false
+
+  # Home page settings
+  description = "Revealed Preferences >>> Stated Preferences"
+  mainSection = "posts" # your main section
+  showAllPostsOnHomePage = false # default
+  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  tagsOverview = false # show tags overview by default.
+  showProjectsList = true # show projects list by default (if projects data file exists).
+  projectsUrl = "https://github.com/gohugoio" # title link for projects list
+
+  # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
+  dateFormat = "2006-01-02" # default
+
+  # Post page settings
+  show_updated = false # default
+
+  [params.comments]
+    enabled = false # default
+    engine = "disqus" # more supported engines will be added.
+
+  # the value of name should be an valid font awesome icon name (brands type)
+  # https://fontawesome.com/icons?d=gallery&s=brands
+  [[params.social]]
+    name = "twitter"
+    link = "http://twitter.com/nuwandavek"
+  [[params.social]]
+    name = "instagram"
+    link = "https://www.instagram.com/nuwandavek"
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/nuwandavek"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/vivek-aithal/"
+  [[params.social]]
+    name = "email"
+    link = "vivekaithal44@gmail.com"  # no need for "mailto:" in the head
