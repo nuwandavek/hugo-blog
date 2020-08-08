@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://vivekaithal.co"
 languageCode = "en-us"
 title = "vivek aithal"
 theme = "cactus"
+publishDir = "build"
 
 [[menu.main]]
 name = "Home"
