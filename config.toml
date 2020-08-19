@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "vivek aithal"
 theme = "cactus"
 publishDir = "build"
+googleAnalytics = "UA-59236300-4"
+enableEmoji=true
 
 [[menu.main]]
 name = "Home"
@@ -24,12 +26,15 @@ weight = 3
 
   colortheme = "white" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
-
+  
   # Home page settings
-  description = '''Some cached thoughts : Revealed Preferences >>> Stated Preferences. More important than the will to win is the will to prepare. If you're so smart, why are you unhappy?'''
+  description = '''Some cached thoughts : <br> 
+  - Revealed Preferences >>> Stated Preferences.<br> 
+  - More important than the will to win is the will to prepare. <br>
+  - If you're so smart, why are you unhappy?'''
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   # projectsUrl = "https://github.com/gohugoio" # title link for projects list
@@ -43,9 +48,9 @@ weight = 3
 
   customCss = ["css/foo.css"]
 
-  [params.comments]
-    enabled = false # default
-    # engine = "disqus" # more supported engines will be added.
+  # [params.comments]
+  #   enabled = false # default
+  #   # engine = "disqus" # more supported engines will be added.
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands

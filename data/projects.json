@@ -2,14 +2,19 @@
 {
     "list": [
       {
-        "name":"okru",
+        "name":"okru (app)",
         "url":"https://okru.app/",
-        "desc":"Set personal OKRs, be accountable to friends, become a better version of you"
+        "desc":"Set personal OKRs, be accountable to friends, be better"
       },
       {
-        "name":"numbersofindia",
+        "name":"numbersofindia (data-blog)",
         "url":"https://numbersofindia.com/",
         "desc":"A data-story blog about India"
+      },
+      {
+        "name":"Exit Through The Gift Shop (art)",
+        "url":"/exit-through-the-gift-shop",
+        "desc":"An album with (Banksy inspired) street/wall art"
       }
     ]
 }

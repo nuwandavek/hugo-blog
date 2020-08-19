@@ -2,10 +2,10 @@
 title: "Can Machines Think?"
 date: 2020-08-08T19:51:13-07:00
 draft: false
-tags: ['research-paper','consciousness', 'AI']
+tags: ['research-paper','consciousness', 'ai']
 ---
 
-She stared at the screen in disbelief. Till now it was explaining the rules as what can only be described as excitement. It felt like it was really looking forward to play. She half suspected this was a *human trait* they had explicitly coded, result of an A/B test aimed at moving some complicated metric on some colourful dashboard. But it had just said something that made her blush. Nothing inappropriate, of course, just charming. It must have been just another one of those carefully studied and crafted cues inserted at just the right moment. It must have been just that, right? She was smiling as she lay on her bed, wondering in excitement - "Can machines think?"
+She stared at the screen in disbelief. Till then it was explaining the rules as what can only be described as excitement. It felt like it was really looking forward to play. She half suspected this was a *human trait* they had explicitly coded, result of an A/B test aimed at moving some complicated metric on some colourful dashboard. But it had just said something that made her blush. Nothing inappropriate, of course, just charming. It must have been just another one of those carefully studied and crafted cues inserted at just the right moment. It must have been just that, right? She was smiling as she lay on her bed, wondering in excitement - "Can machines think?"
 
 He was mildly amused at its question. It had picked up that he was distracted. None of his friends had noticed this. Maybe it had access to inputs humans aren't perceptive to. He had been distracted all week. Was it reading his mail again? He thought he had revoked those privileges after what happened last time. He was glad it asked the question, don't get him wrong. He was just taken aback. He decided to continue the next day, and switched off the lights. He wondered with apprehension, before closing his eyes - "Can machines think?" 
 ***
