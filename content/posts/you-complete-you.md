@@ -5,6 +5,7 @@ draft: false
 tags: ['ai', 'side-projects', 'app', 'nlp']
 ---
 
+GitHub Repo : [https://github.com/nuwandavek/you](https://github.com/nuwandavek/you)
 
 *You* is an auto-completion tool that completes your sentences. It lets you train a generative model that can mimic your personal style over all your text communication. Currently, You trains on WhatsApp chat history, and offers autocomplete suggestions on WhatsApp Web via a Chrome/Firefox extension and a flask server. This can be extended to train and autocomplete on more personal communication apps (Messenger, email, Slack, Twitter, etc.). Everything runs locally and is completely private.
 
@@ -17,7 +18,7 @@ We are also excited about the prospect of a language model that is tailor-made f
 
 ![Chat With Rishi](https://raw.githubusercontent.com/nuwandavek/you/master/demo.gif)
 
-## How to run this?
+## How do I run this?
 
 Currently You works on web Whatsapp, and running You involves 3 steps 
 - Training (fine-tuning) a pre-trained DistilGPT2 model on your own chats on Google Colab (or locally if you have a GPU)
