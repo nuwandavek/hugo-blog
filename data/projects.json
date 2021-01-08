@@ -2,6 +2,11 @@
 {
     "list": [
       {
+        "name":"You (ml, app)",
+        "url":"https://github.com/nuwandavek/you",
+        "desc":"A personal, private auto-completion tool"
+      },
+      {
         "name":"okru (app)",
         "url":"https://okru.app/",
         "desc":"Set personal OKRs, be accountable to friends, be better"

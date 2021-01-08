@@ -3,7 +3,7 @@
 	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
 [submodule "themes/cactus"]
 	path = themes/cactus
-	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+	url = git@github.com:nuwandavek/hugo-theme-cactus.git
 [submodule "build"]
 	path = build
 	url = git@github.com:nuwandavek/nuwandavek.github.io.git
