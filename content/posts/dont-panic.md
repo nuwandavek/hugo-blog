@@ -10,7 +10,7 @@ It has been two years since I arrived in the US, with a bag full of food, head f
 
 ## Why'd I come here?
 
-I had never been enamored by the west the way many of my friends and acquaintances were. I took up a job in Bangalore after IIT Kharagpur, and moved around quite a bit. On some days I liked my job, and on some days I hated it - on most days I was bored. It did not take much to be perceived as good. To shake things up, I joined a start-up - which ended in a disaster. All this time was sprinkled with hackathons, side projects, heartbreaks, and travel. There were moments of glory, but most were meh. I had felt "alive" enough times to know that I was not feeling alive enough. Extrapolating my general trajectory did not lead to anything particularly glorious. It would good, it would be familiar, it would most probably not be any less boring.
+I had never been enamored by the west the way many of my friends and acquaintances were. I took up a job in Bangalore after IIT Kharagpur, and moved around quite a bit. On some days I liked my job, and on some days I hated it - on most days I was bored. It did not take much to be perceived as good. To shake things up, I joined a start-up - which ended in a disaster. All this time was sprinkled with hackathons, side projects, heartbreaks, and travel. There were moments of glory, but most were meh. I had felt "alive" enough times to know that I was not feeling alive enough. Extrapolating my general trajectory did not lead to anything particularly glorious. It would be good, it would be familiar, it would most probably not be any less boring.
 
 ## Did it turn out to be everything I expected?
 
