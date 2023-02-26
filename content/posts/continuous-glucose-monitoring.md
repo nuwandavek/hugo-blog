@@ -3,6 +3,7 @@ title: "Not-so-Sweet News : Experiments with a CGM"
 date: 2021-08-29T17:13:10-07:00
 draft: true
 ---
+{{< audiobook "/audios/continuous-glucose-monitoring.wav" wav >}}
 
 Data, Code, Analysis: [https://github.com/nuwandavek/spiky](https://github.com/nuwandavek/spiky).
 
@@ -25,7 +26,10 @@ Stable, low-but-safe glucose levels is an ideal to aim for. I wore the CGM for ~
 - Potatoes are bad :(. This was the most heartbreaking discovery. Potatoes cause an increase in blood glucose that lasts longer than any other food I consumed. 
 - Alcohol is bad, especially at night. It causes huge variations overnight and is also linked with bad sleep.
 - Diet Coke is bad! This one was fascinating! Turns out that our pancreas preempt any glucose spikes using our senses and start generating insulin. So, when the sweet tasting diet soda brings no glucose, our body experiences a sugar crash. Diet soda is also associated with low self control wrt. other sugary drinks.
-- My blood glucose is fairly good, if I don't consume the above things. It crosses the lower limit than it does the higher limit - which I read is a function of shock of drastic dietary changes. I hope that stabilizes over time. 
+- My blood glucose is fairly good, if I don't consume the above things. It crosses the lower limit than it does the higher limit - which I read is a function of shock of drastic dietary changes. I hope that stabilizes over time.
+
+[//]: # (End of the list)
+
 {{< table "table table-dark table-striped table-bordered">}}
 |    | date       |   time_over_max |   time_under_min |   time_normal |
 |---:|:-----------|---------------------------:|----------------------------:|-------------------------:|
@@ -39,12 +43,17 @@ Stable, low-but-safe glucose levels is an ideal to aim for. I wore the CGM for ~
 |  7 | 2021-08-24 |0%    |                       43.38% |                    56.62% |
 |  8 | 2021-08-25 |0%    |                       62.44% |                    37.56% |
 {{< table />}}
+
+
 ![Some Text](/images/cgm/cgm-3.png)
 
 ## Insights : The Good
 - There's a spike in glucose every morning when I wake up! It turns out that your body wants you wake up with energy and enthusiasm and pumps you up with glucose (Aww). Working out, hence, is a great way to expend this glucose and ensuring that one does not consume excess calories post workout due to glucose depletion.
 - Yoghurt is a superfood! When I had non-fat-Greek yoghurt with protein powder and strawberries, my blood glucose barely rose! This is my go to snack now and a really great substitute for ice cream!
 - I do not consume any breakfast and fast till lunch (some version of IF). This period (9am - 12pm) seems to be the most stable glucose time, especially on days I work out! Look at those flat lines! 
+
+[//]: # (End of the list)
+
 ![Some Text](/images/cgm/cgm-4.png)
 
 ## Conclusion
