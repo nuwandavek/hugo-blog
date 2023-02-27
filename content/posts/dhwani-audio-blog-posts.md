@@ -1,6 +1,6 @@
 ---
 title: "Dhwani: Audio blog posts"
-images: ["/images/cartoons/side-projects.PNG"]
+images: ["/images/sound.jpg"]
 description: "Missed the make-cartoon-on-not-doing-side-projects-to-avoid-doing-side-projects step."
 date: 2023-02-26
 draft: false
