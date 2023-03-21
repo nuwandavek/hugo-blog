@@ -9,6 +9,6 @@ tags: ['squiggly_lines', 'art']
 
 Code to generate such plots: [https://github.com/nuwandavek/squigglylines](https://github.com/nuwandavek/squigglylines)
 
-{{< figure src="/images/cartoons/insult.png" title="Echoing in the streets: 'SF is back, baby!'" width="2000px">}}
+{{< figure src="/images/cartoons/insult.png" title="Echoing in the streets: 'SF is back, baby!'">}}
 
 Inspiration Credits: [xkcd fonts](https://github.com/ipython/xkcd-font), [@keerthanpg](https://twitter.com/keerthanpg), SF parties, and of course, [xkcd](https://xkcd.com/) :)
