@@ -1,6 +1,6 @@
 baseURL = "https://vivekaithal.co"
 languageCode = "en-us"
-title = "vivek aithal"
+title = "vivek Aithal"
 theme = "cactus"
 publishDir = "build"
 googleAnalytics = "UA-59236300-4"
@@ -34,7 +34,7 @@ weight = 3
   - If you're so smart, why are you unhappy?'''
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
-  postsOnHomePage = 10 # this option will be ignored if showAllPostsOnHomePage is set to true
+  postsOnHomePage = 100 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   # projectsUrl = "https://github.com/gohugoio" # title link for projects list
