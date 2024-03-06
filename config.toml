@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "vivek Aithal"
 theme = "cactus"
 publishDir = "build"
-googleAnalytics = "UA-59236300-4"
+googleAnalytics = "G-NJ3ZGE2QX8"
 enableEmoji=true
 
 [[menu.main]]
